@@ -1,0 +1,14 @@
+C:\Programing\HomeWorkSem7\bin\Debug\net8.0\HomeWorkSem7.exe
+C:\Programing\HomeWorkSem7\bin\Debug\net8.0\HomeWorkSem7.deps.json
+C:\Programing\HomeWorkSem7\bin\Debug\net8.0\HomeWorkSem7.runtimeconfig.json
+C:\Programing\HomeWorkSem7\bin\Debug\net8.0\HomeWorkSem7.dll
+C:\Programing\HomeWorkSem7\bin\Debug\net8.0\HomeWorkSem7.pdb
+C:\Programing\HomeWorkSem7\obj\Debug\net8.0\HomeWorkSem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\HomeWorkSem7\obj\Debug\net8.0\HomeWorkSem7.AssemblyInfoInputs.cache
+C:\Programing\HomeWorkSem7\obj\Debug\net8.0\HomeWorkSem7.AssemblyInfo.cs
+C:\Programing\HomeWorkSem7\obj\Debug\net8.0\HomeWorkSem7.csproj.CoreCompileInputs.cache
+C:\Programing\HomeWorkSem7\obj\Debug\net8.0\HomeWorkSem7.dll
+C:\Programing\HomeWorkSem7\obj\Debug\net8.0\refint\HomeWorkSem7.dll
+C:\Programing\HomeWorkSem7\obj\Debug\net8.0\HomeWorkSem7.pdb
+C:\Programing\HomeWorkSem7\obj\Debug\net8.0\HomeWorkSem7.genruntimeconfig.cache
+C:\Programing\HomeWorkSem7\obj\Debug\net8.0\ref\HomeWorkSem7.dll
