@@ -77,9 +77,6 @@
 // Задача 3: Задайте произвольный массив. Выведете его элементы, начиная с конца. 
 // Использовать рекурсию, не использовать циклы.
 
-int [] array = {1,5,6,7,8}; //произвольный массив
-int Length = array.Length-1;//определяем индекс последнего элемента
- 
 /// <summary>
 /// Рекурсивная функция выводит заданный массив в обратном порядке
 /// </summary>
@@ -100,9 +97,11 @@ void ShowReversArray(int[] arr,int i)
 
 }
 Console.Clear();
+int [] array = {1,5,6,7,8}; //произвольный массив
+int index = array.Length-1;//определяем индекс последнего элемента
 Console.Write($"Входной массив:     [{String.Join("; ",array)}]\n");
 Console.Write("Перевернутый массив:[");
-ShowReversArray(array,Length);
+ShowReversArray(array,index);//Начальный вызов рекурсии
 Console.Write("]");
 
 
